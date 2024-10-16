@@ -65,3 +65,12 @@
 20241014	12:20:42	d5c116e6-3cda-41e6-93bf-41140cf7da9e	GET	undefined	/img/img1.jpg
 20241014	12:20:58	48903eef-c38a-4b59-ad74-729fafcde0d9	GET	undefined	/index
 20241014	12:20:58	6c4d3686-9442-466d-bd79-41c76924d3d3	GET	undefined	/css/style.css
+20241016	10:40:31	c8727229-4969-4e99-9669-d71e831aa6b0	GET	undefined	/new-page.html
+20241016	10:40:46	8c34651d-ae39-4283-896b-16148ea171f7	GET	undefined	/employees
+20241016	10:40:46	22ab9c3a-7139-4a5d-a75a-711058220b7d	GET	undefined	/favicon.ico
+20241016	10:44:24	20aca914-a2a6-49e4-aaea-6b580aaeef21	GET	undefined	/employees
+20241016	10:45:55	a86a2830-a229-4bd0-aabd-32cdc1621417	GET	undefined	/employees
+20241016	10:47:58	921c479a-b98f-49dc-a269-de0514b86b1e	POST	undefined	/employees
+20241016	10:49:19	4a562acc-aa85-4553-aa01-0ceab4f85147	PUT	undefined	/employees
+20241016	10:50:02	405b92e7-8d4f-4481-9501-8533b39a543e	DELETE	undefined	/employees
+20241016	10:50:43	b2a150a9-5ff2-41e1-b97f-680a292a3257	GET	undefined	/employees/1
