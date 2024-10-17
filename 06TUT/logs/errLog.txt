@@ -1,2 +1,4 @@
 20241011	11:48:37	f74f3c63-df63-4dba-a6e1-129a036cec7f	Error: Not allowed by CORS
 20241011	11:48:59	8d675770-8a42-4748-8be8-201e40b43ab0	Error: Not allowed by CORS
+20241017	16:44:46	14078828-e8ce-4d60-8481-7bc22dde4315	ReferenceError: whitelist is not defined
+20241017	16:47:25	467e258b-4182-4caa-afd0-f05bf0d708dc	ReferenceError: roleArray is not defined
