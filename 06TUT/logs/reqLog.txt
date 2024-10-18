@@ -127,3 +127,5 @@
 20241017	16:52:50	d3f0785b-ec06-4b3f-bb29-1322c28c41ab	POST	undefined	/auth
 20241017	16:53:02	7d4c25c0-9129-43d3-979f-f58589b59710	POST	undefined	/employees
 20241017	16:53:08	9a9a655a-2e4c-4c53-ac3d-d6e025b69a79	DELETE	undefined	/employees
+20241018	16:04:11	c20e728c-4389-49ed-90c9-8a60a761e4cc	POST	undefined	/register
+20241018	16:05:04	0a96f4c1-7bf2-42c8-a7df-941b195f9de8	POST	undefined	/register
